@@ -5,7 +5,7 @@ import { createClient } from "@/lib/supabase";
 import ExpenseApp from "@/components/ExpenseApp";
 
 // ⬇️ 본인이 원하는 비밀번호로 바꿔주세요 (TO-DO 앱이랑 다르게 해도 됨)
-const APP_PASSWORD = "card1234";
+const APP_PASSWORD = "5535";
 
 const STORAGE_KEY = "myexpense_approved_v1";
 
